@@ -1,0 +1,16 @@
+ID,Age,Gender,Income,Education,Satisfaction_Score,Purchase_Probability
+1,28,Female,55000,Bachelor,4.2,0.75
+2,35,Male,72000,Master,3.8,0.62
+3,42,Female,95000,PhD,4.9,0.88
+4,22,Male,32000,High School,2.5,0.31
+5,51,Female,110000,Master,4.5,0.91
+6,30,Male,61000,Bachelor,3.9,0.55
+7,45,Female,88000,Bachelor,4.1,0.70
+8,26,Male,45000,Master,3.2,0.45
+9,39,Female,125000,PhD,4.8,0.95
+10,33,Male,68000,Bachelor,4.0,0.68
+11,48,Female,105000,Master,4.6,0.85
+12,29,Male,58000,Bachelor,3.5,0.50
+13,37,Female,82000,Master,4.3,0.78
+14,55,Male,140000,PhD,4.7,0.92
+15,24,Female,38000,Bachelor,3.0,0.40

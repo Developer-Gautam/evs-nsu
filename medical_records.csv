@@ -1,0 +1,11 @@
+Patient_ID,Condition,Age,Heart_Rate,Blood_Pressure_Sys,Cholesterol,Recovery_Days
+P-001,Hypertension,65,82,145,240,12
+P-002,Diabetes,54,76,130,210,18
+P-003,Healthy,28,65,115,180,2
+P-004,Asthma,34,88,122,195,5
+P-005,Hypertension,71,78,150,260,15
+P-006,Diabetes,48,72,135,225,21
+P-007,Healthy,22,60,110,165,1
+P-008,Asthma,41,92,125,200,6
+P-009,Hypertension,59,85,142,235,10
+P-010,Healthy,31,68,118,175,3

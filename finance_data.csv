@@ -1,0 +1,11 @@
+Stock_Symbol,Sector,Current_Price,Volume,Market_Cap_B,PE_Ratio,Dividend_Yield
+AAPL,Technology,175.50,55000000,2800,28.5,0.5
+MSFT,Technology,330.20,28000000,2400,32.1,0.8
+JNJ,Healthcare,160.10,8000000,415,15.2,2.8
+JPM,Financials,145.80,12000000,420,9.5,2.9
+XOM,Energy,110.40,18000000,440,8.2,3.2
+PG,Consumer,150.30,6000000,350,24.5,2.4
+V,Financials,240.60,7000000,500,30.1,0.7
+CVX,Energy,165.20,9000000,310,9.8,3.6
+UNH,Healthcare,480.90,3000000,450,22.4,1.4
+HD,Consumer,310.50,4500000,315,19.8,2.6
