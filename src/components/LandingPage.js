@@ -65,7 +65,7 @@ export default function LandingPage({ onActionClick, isLoggedIn }) {
           Intelligence, <br />
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#00ffcc] via-[#0066ff] to-[#cc00ff] relative inline-block">
             Materialized.
-            <div className="absolute -inset-4 bg-gradient-to-r from-[#00ffcc] via-[#0066ff] to-[#cc00ff] blur-3xl opacity-20 -z-10 animate-pulse-slow"></div>
+            <div className="absolute -inset-4 bg-gradient-to-r from-[#00ffcc] via-[#0066ff] to-[#cc00ff] blur-3xl opacity-20 -z-10"></div>
           </span>
         </h1>
 
